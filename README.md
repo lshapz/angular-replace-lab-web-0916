@@ -6,4 +6,6 @@
 
 ## Instructions
 
-Let's recreate our success and error messages. Create the directives in the `ErrorMessage.js` and `SuccessMessage.js` file and use the in `index.html`. Make sure the directives are `successMessage` and `errorMessage`. Make them both utilise the replace option!
+Let's recreate our success and error messages. Create two directives called `successMessage` and `errorMessage` in the `SuccessMessage.js` and `ErrorMessage.js` files. The directives should render `<div>Woohoo! Success!</div>` and `<div>Oh no, an error occurred!</div>` respectively.
+
+Make them both utilize the replace option!
